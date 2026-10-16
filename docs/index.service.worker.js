@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792061362|10280221242';
+const CACHE_VERSION = '1792142256|50842799';
 /** @type {string} */
 const CACHE_PREFIX = 'AnimaDex-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
